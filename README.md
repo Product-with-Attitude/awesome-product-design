@@ -93,6 +93,7 @@ Feel free to [add something interesting](contributing.md) by pull request.
 - [UX Booth](https://www.uxbooth.com/) - The UX Booth is a publication by and for the user experience community.
 - [UX Mastery](https://uxmastery.com/) - We help user experience professionals get started and get better.
 - [UX Myths](https://uxmyths.com/) - Build your product based on evidence, not false beliefs.
+- [UX Dark Patterns](https://open.substack.com/pub/karozieminski/p/when-fun-turns-predatory-inside-temus) UX Dark Patterns explained using TEMU as a case study.
 - [A List Apart](https://alistapart.com/) - List Apart explores the design, development, and meaning of web content.
 - [52 Weeks of UX](https://52weeksofux.com/) - Discourse on the process of designing for real people.
 - [UX Pin](https://www.uxpin.com/studio/) - Guides, articles and ebooks that explore all facets of UX Design.
